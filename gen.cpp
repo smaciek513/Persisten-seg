@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
+#define int long long
 //#define INT_MIN -1e9
 //#define INT_MAX 1e9
 #define N 10'000
